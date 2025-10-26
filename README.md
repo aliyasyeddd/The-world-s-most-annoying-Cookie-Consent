@@ -12,13 +12,17 @@ This fun little web app recreates the internet’s most annoying popup experienc
 
 ---
 
-## 🚀 Features  
-✨ Key things your app can do:  
+## 🚀 Features
 
-- 🔐 Generate secure, random passwords  
-- 🧠 Copy to clipboard with one click  
-- 📱 Fully responsive layout  
-- 🌙 Minimal, distraction-free interface  
+✨ Key things your app can do:
+
+* 😈 Displays a mischievous popup right as you start reading
+* 🖱️ “Decline” button cleverly dodges your clicks using CSS tricks
+* 📩 Collects name and email through a playful fake form
+* 😂 Reveals it’s “selling” your data with a humorous twist
+* ⏳ Uses JavaScript features like `setTimeout`, `formData`, and event handling
+* 🎨 Fun, responsive layout showcasing CSS animations and interactivity
+
 
 ---
 
