@@ -36,6 +36,7 @@ consentForm.addEventListener("submit", function (e) {
            </div>
         `
     }, 3000)
+    closeButton.disabled = false;
 
 })
 
