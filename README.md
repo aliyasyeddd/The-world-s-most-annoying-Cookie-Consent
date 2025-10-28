@@ -47,7 +47,7 @@ Reflect briefly on your takeaways:
 ## 🖼️ Screenshots / Demo  
 Show what your project looks like 🌷  
 
-![App Screenshot](./images/demo.png)  
+![App Screenshot](./images/App%20Screenshot.png)  
 🔗 **Live Demo:** [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app)
 
 ---
