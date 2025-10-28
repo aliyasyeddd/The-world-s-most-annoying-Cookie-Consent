@@ -14,17 +14,13 @@ closeButton.addEventListener("click", function () {
 })
 
 
-form.addEventListener("submit", function (e) {
+form.addEventListener("submit", function (e){
     e.preventDefault()
+    modalText.innerHTML = `
+    <div class="modal-inner-loading">
+        <img src="images/loading.svg" class="loading">
+        <p id="upload-text">Uploading your data to the dark web...</p>
+    </div>`
 })
 
- consentForm.addEventListener("submit", function() {
-     modalText.innerHTML = `
-      <div class="modal-inner-loading">
-        <img src="images/loading.svg" class="loading">
-         <p id="uploadText">
-          Uploading your data to the dark web...
-        </p>
-     </div>
-    `
-})
+
