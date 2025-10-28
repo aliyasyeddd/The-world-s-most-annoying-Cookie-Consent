@@ -24,6 +24,17 @@ consentForm.addEventListener("submit", function (e) {
     setTimeout(function () {
         document.getElementById("upload-text").innerText = "Making the sale..."
     }, 1500)
+
+    setTimeout(() => {
+        document.getElementById('modal-inner').innerHTML = `
+         <h2>Thanks you sucker! </h2>
+           <p>We just sold the rights to your eternal soul.</p>
+           <div class="idiot-gif">
+            <img src="images/pirate.gif">
+           </div>
+        `
+    }, 3000)
+
 })
 
 
