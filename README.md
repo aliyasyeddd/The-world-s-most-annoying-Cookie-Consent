@@ -38,9 +38,13 @@ This fun little web app recreates the internet’s most annoying popup experienc
 
 ## 🌿 Lessons Learned  
 Reflect briefly on your takeaways:  
-> - Improved DOM manipulation skills  
-> - Learned to manage state and events efficiently  
-> - Enhanced understanding of clean, maintainable code  
+> - Mastered DOM manipulation by dynamically showing, hiding, and updating modal content using getElementById, innerHTML, and classList.
+> - Enhanced event handling skills through the use of event listeners for clicks, form submissions, and hover interactions (mouseenter). 
+> - Learned effective state management within the UI — controlling modal visibility, button disabling/enabling, and dynamic content updates with setTimeout.
+> - Improved understanding of asynchronous behavior by sequencing visual changes (loading animation → success message) using time delays.
+> - Practiced form handling with JavaScript using FormData to capture and display user input dynamically.
+> - Focused on clean and maintainable code structure, separating concerns between HTML, CSS, and JS, and keeping styles modular and consistent.
+> - Gained insight into UX behavior by creating interactive, humorous modal interactions (like button reversal on hover) that demonstrate DOM reactivity and user engagement.
 
 ---
 
